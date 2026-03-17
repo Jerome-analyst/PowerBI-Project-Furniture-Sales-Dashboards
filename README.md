@@ -12,7 +12,7 @@ The dashboard highlights key metrics such as total sales, profit, quantity sold,
 # Dashboard Preview
 
 <p align="center">
-  <img src="dashboard-preview.png" width="900">
+  <img src="https://github.com/Jerome-analyst/PowerBI-Project-Furniture-Sales-Dashboards/blob/main/Dashboard.png" width="500">
 </p>
 
 ---
